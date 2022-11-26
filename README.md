@@ -12,8 +12,6 @@
 
 ### `npm i nodemon`
 
-### `npm install -g create-react-app`
-
 ### `npm start`
 
 Запускає програму в режимі розробки.\
